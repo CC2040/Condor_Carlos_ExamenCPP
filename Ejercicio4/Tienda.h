@@ -3,10 +3,6 @@
 
 
 
-class Tienda {
-
-};
-
-
+void promocion();
 
 #endif //TIENDA_H
