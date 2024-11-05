@@ -3,7 +3,8 @@
 using namespace std;
 
 void promocion() {
-    int a[3]={},i=0,m1=0,m2=0,sum=0,aux=0;
+    int i=0;
+    double a[3]={},m1=0,m2=0,sum=0;
     cout<<"Ingrese el precio de los 3 articulos que desea comprar: ";
     for (i = 0; i < 3; i++) {
         cin>>a[i];

@@ -3,8 +3,8 @@
 using namespace std;
 
 void promedio() {
-    int a[8]={};
-    int i,sum=0,prom=0;
+    double a[8]={},sum=0,prom=0;
+    int i;
     cout<<"Ingrese las calificaciones obtenidas de los 8 ejercicios realizados: ";
     for (i = 0; i < 8; i++) {
         cin>>a[i];
