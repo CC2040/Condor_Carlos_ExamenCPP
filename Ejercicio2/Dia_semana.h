@@ -6,11 +6,6 @@
 #define DIA_SEMANA_H
 
 
-
-class Dia_semana {
-
-};
-
-
+void Dia_semana();
 
 #endif //DIA_SEMANA_H
