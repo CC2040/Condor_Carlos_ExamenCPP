@@ -2,11 +2,6 @@
 #define COMPROBACION_NUM_H
 
 
-
-class Comprobacion_num {
-
-};
-
-
+void comprobacion();
 
 #endif //COMPROBACION_NUM_H

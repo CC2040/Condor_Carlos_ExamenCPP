@@ -1,3 +1,8 @@
-//
-// Created by carlo on 05/11/2024.
-//
+#include "Ejercicio1/Comprobacion_num.h"
+
+int main() {
+
+    comprobacion();
+
+    return 0;
+}
