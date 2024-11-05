@@ -2,11 +2,7 @@
 #define CALIFICACIONES_H
 
 
-
-class Calificaciones {
-
-};
-
+void promedio();
 
 
 #endif //CALIFICACIONES_H
